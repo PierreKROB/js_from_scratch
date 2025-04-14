@@ -1,0 +1,276 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11328,
+                    50.282562
+                ]
+            },
+            "properties": {
+                "label": "Arleux",
+                "score": 0.9407172727272726,
+                "id": "59015",
+                "banId": "120e491e-3384-4ad1-ab7a-bbafc4d84ede",
+                "type": "municipality",
+                "name": "Arleux",
+                "postcode": "59151",
+                "citycode": "59015",
+                "x": 708084.13,
+                "y": 7020525.02,
+                "population": 3151,
+                "city": "Arleux",
+                "context": "59, Nord, Hauts-de-France",
+                "importance": 0.34789,
+                "municipality": "Arleux",
+                "_type": "address"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.869599,
+                    50.362012
+                ]
+            },
+            "properties": {
+                "label": "Arleux-en-Gohelle",
+                "score": 0.8441681818181818,
+                "id": "62039",
+                "banId": "57f0a807-8660-49b3-9ba4-2523c63cede8",
+                "type": "municipality",
+                "name": "Arleux-en-Gohelle",
+                "postcode": "62580",
+                "citycode": "62039",
+                "x": 690708.66,
+                "y": 7029376.05,
+                "population": 909,
+                "city": "Arleux-en-Gohelle",
+                "context": "62, Pas-de-Calais, Hauts-de-France",
+                "importance": 0.28585,
+                "municipality": "Arleux-en-Gohelle",
+                "_type": "address"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.37199,
+                    48.968228
+                ]
+            },
+            "properties": {
+                "label": "Rue Morel d'Arleux 93380 Pierrefitte-sur-Seine",
+                "score": 0.6986063636363636,
+                "id": "93059_6175",
+                "name": "Rue Morel d'Arleux",
+                "postcode": "93380",
+                "citycode": "93059",
+                "x": 654019.77,
+                "y": 6874436.25,
+                "city": "Pierrefitte-sur-Seine",
+                "context": "93, Seine-Saint-Denis, Île-de-France",
+                "type": "street",
+                "importance": 0.68467,
+                "street": "Rue Morel d'Arleux",
+                "_type": "address"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.080483,
+                    50.362443
+                ]
+            },
+            "properties": {
+                "label": "Rue d’Arleux 59500 Douai",
+                "score": 0.6935472727272727,
+                "id": "59178_0260",
+                "banId": "59bb53d6-050d-48d8-89eb-c50e27a12a31",
+                "name": "Rue d’Arleux",
+                "postcode": "59500",
+                "citycode": "59178",
+                "x": 705734.53,
+                "y": 7029419.31,
+                "city": "Douai",
+                "context": "59, Nord, Hauts-de-France",
+                "type": "street",
+                "importance": 0.62902,
+                "street": "Rue d’Arleux",
+                "_type": "address"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.116216,
+                    50.282991
+                ]
+            },
+            "properties": {
+                "label": "rue andré-joseph leglay 59151 Arleux",
+                "score": 0.6892299999999999,
+                "id": "59015_l4dlb7",
+                "banId": "846eb706-e43e-4977-94e6-48441ce18c7d",
+                "name": "rue andré-joseph leglay",
+                "postcode": "59151",
+                "citycode": "59015",
+                "x": 708293.59,
+                "y": 7020573.1,
+                "city": "Arleux",
+                "context": "59, Nord, Hauts-de-France",
+                "type": "street",
+                "importance": 0.58153,
+                "street": "rue andré-joseph leglay",
+                "_type": "address"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.86512,
+                    50.396745
+                ]
+            },
+            "properties": {
+                "label": "Chemin d'Arleux 62680 Méricourt",
+                "score": 0.688990909090909,
+                "id": "62570_0010",
+                "banId": "311bbdc2-5574-420f-b8f7-0896490d7730",
+                "name": "Chemin d'Arleux",
+                "postcode": "62680",
+                "citycode": "62570",
+                "x": 690396.13,
+                "y": 7033245.46,
+                "city": "Méricourt",
+                "context": "62, Pas-de-Calais, Hauts-de-France",
+                "type": "street",
+                "importance": 0.5789,
+                "street": "Chemin d'Arleux",
+                "_type": "address"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.100637,
+                    50.273883
+                ]
+            },
+            "properties": {
+                "label": "Rue de la Chaussee 59151 Arleux",
+                "score": 0.68829,
+                "id": "59015_0160",
+                "banId": "cb1a7d2c-68ed-4710-8f80-ac86a4c44187",
+                "name": "Rue de la Chaussee",
+                "postcode": "59151",
+                "citycode": "59015",
+                "x": 707183.11,
+                "y": 7019557.19,
+                "city": "Arleux",
+                "context": "59, Nord, Hauts-de-France",
+                "type": "street",
+                "importance": 0.57119,
+                "street": "Rue de la Chaussee",
+                "_type": "address"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.108577,
+                    50.279478
+                ]
+            },
+            "properties": {
+                "label": "Rue du Marais 59151 Arleux",
+                "score": 0.6879081818181818,
+                "id": "59015_0400",
+                "banId": "2fd00fd4-240a-4b72-9e18-18c91adbabc0",
+                "name": "Rue du Marais",
+                "postcode": "59151",
+                "citycode": "59015",
+                "x": 707748.98,
+                "y": 7020181.07,
+                "city": "Arleux",
+                "context": "59, Nord, Hauts-de-France",
+                "type": "street",
+                "importance": 0.56699,
+                "street": "Rue du Marais",
+                "_type": "address"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.116218,
+                    50.282991
+                ]
+            },
+            "properties": {
+                "label": "Rue Andre Joseph le Glay 59151 Arleux",
+                "score": 0.6877345454545454,
+                "id": "59015_0010",
+                "banId": "a99ee503-b5be-4b52-babf-92b467e87fe5",
+                "name": "Rue Andre Joseph le Glay",
+                "postcode": "59151",
+                "citycode": "59015",
+                "x": 708293.73,
+                "y": 7020573.1,
+                "city": "Arleux",
+                "context": "59, Nord, Hauts-de-France",
+                "type": "street",
+                "importance": 0.56508,
+                "street": "Rue Andre Joseph le Glay",
+                "_type": "address"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.108056,
+                    50.275755
+                ]
+            },
+            "properties": {
+                "label": "Rue du Bias 59151 Arleux",
+                "score": 0.6877345454545454,
+                "id": "59015_0020",
+                "banId": "74edaf38-3515-4e66-9d65-afb7ad8ce3a2",
+                "name": "Rue du Bias",
+                "postcode": "59151",
+                "citycode": "59015",
+                "x": 707712.36,
+                "y": 7019766.38,
+                "city": "Arleux",
+                "context": "59, Nord, Hauts-de-France",
+                "type": "street",
+                "importance": 0.56508,
+                "street": "Rue du Bias",
+                "_type": "address"
+            }
+        }
+    ]
+}
