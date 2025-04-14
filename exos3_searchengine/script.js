@@ -18,8 +18,8 @@ class SearchEngine {
     }
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-    const SearchEngine = new SearchEngine();
+document.addEventListener('DOMContentLoaded', () => { //uselesss cause defer on html
+    const searchEngine = new SearchEngine();
     const searchInput = document.getElementById('searchInput');
     const divResultats = document.getElementById('results');
 
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const gererSaisie = async (evenement) => {
         const requete = evenement.target.value;
         if (requete.length >= 3) {
-            const resultats = await SearchEngine.search(requete);
+            const resultats = await searchEngine.search(requete);
             if (resultats && resultats.features) {
                 const etiquettes = resultats.features.map(element => element.properties.label);
                 divResultats.innerHTML = etiquettes.join('<br>');
