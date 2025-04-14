@@ -19,8 +19,8 @@ class SearchEngine {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    const moteurRecherche = new SearchEngine();
-    const champRecherche = document.getElementById('searchInput');
+    const SearchEngine = new SearchEngine();
+    const searchInput = document.getElementById('searchInput');
     const divResultats = document.getElementById('results');
 
     const tempo = (fonction, delai) => {
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const gererSaisie = async (evenement) => {
         const requete = evenement.target.value;
         if (requete.length >= 3) {
-            const resultats = await moteurRecherche.search(requete);
+            const resultats = await SearchEngine.search(requete);
             if (resultats && resultats.features) {
                 const etiquettes = resultats.features.map(element => element.properties.label);
                 divResultats.innerHTML = etiquettes.join('<br>');
@@ -46,5 +46,5 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
-    champRecherche.addEventListener('input', tempo(gererSaisie, 300));
+    searchInput.addEventListener('input', tempo(gererSaisie, 300));
 });
